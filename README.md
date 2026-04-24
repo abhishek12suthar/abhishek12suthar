@@ -1,16 +1,94 @@
-## Hi there 👋
+# Hi, I'm Abhishek Suthar 👋  
 
-<!--
-**abhishek12suthar/abhishek12suthar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 AI Engineer | Generative AI | Agentic AI | RAG Systems  
+📍 Bikaner, Rajasthan, India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me  
+I build **production-grade AI systems** using LLMs, RAG, and multi-agent architectures.  
+My focus is on solving real-world problems with **scalable, memory-aware, and intelligent systems**.  
+
+- 🧠 Working with LLMs, LangChain, LangGraph  
+- ⚡ Building Agentic AI & RAG pipelines  
+- ☁️ Deploying AI systems on AWS  
+- 🔍 Turning unstructured data into actionable insights  
+
+---
+
+## 🛠️ Tech Stack  
+
+**Languages:**  
+Python, SQL  
+
+**AI/ML:**  
+LLMs, Generative AI, Prompt Engineering, RAG, Fine-Tuning, Agentic AI  
+
+**Frameworks:**  
+LangChain, LangGraph, FastAPI, Streamlit  
+
+**Cloud & Tools:**  
+AWS, Git, GitHub  
+
+**Databases:**  
+PostgreSQL, Redis, Vector Databases  
+
+---
+
+## 🚀 Featured Projects  
+
+### 🔹 Multi-Agent Real Estate AI System  
+- LLM-powered system with intelligent **agent routing**  
+- Handles **conversation memory & agent switching**  
+- Designed for real-world production use  
+
+---
+
+### 🔹 Financial Data Extraction using LLM  
+- Extracts structured financial data from unstructured text  
+- Built with FastAPI + Gemini  
+- Includes logging, metrics, and secure API handling  
+
+---
+
+### 🔹 Insurance RAG Chatbot  
+- Detects missing information in insurance documents  
+- Reduces manual review effort significantly  
+- Built using RAG + NLP  
+
+---
+
+### 🔹 Single-Agent Task Solver  
+- Intelligent agent with **tool usage + long-term memory**  
+- Supports reasoning using LangChain (LCEL)  
+
+---
+
+## 💼 Experience  
+
+**AI Developer — Wegile** *(Oct 2025 – Present)*  
+- Built LLM orchestrator for multi-agent routing  
+- Implemented memory systems using Redis & PostgreSQL  
+
+**AI Engineer — Avkalan.ai** *(Oct 2023 – Jul 2025)*  
+- Developed RAG-based document intelligence systems  
+- Worked on AI-driven product development  
+
+---
+
+## 📫 Connect with Me  
+
+- 📧 Email: abhishek.12suthar@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/abhishek-suthar-97a3b2190/  
+- 💻 GitHub: https://github.com/abhishek12suthar  
+
+---
+
+## ⚡ Current Focus  
+- Building advanced **Agentic AI systems**  
+- Scaling **RAG architectures**  
+- Designing **LLM-powered automation pipelines**  
+
+---
+
+⭐ *Explore my repositories to see real-world AI systems in action!*  
