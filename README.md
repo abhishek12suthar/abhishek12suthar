@@ -9,7 +9,7 @@
 I build **production-grade AI systems** using LLMs, RAG, and multi-agent architectures.  
 My focus is on solving real-world problems with **scalable, memory-aware, and intelligent systems**.  
 
-- 🧠 Working with LLMs, LangChain, LangGraph  
+- 🧠 Working with LLMs, LangChain, LangGraph, NLP, DL  
 - ⚡ Building Agentic AI & RAG pipelines  
 - ☁️ Deploying AI systems on AWS  
 - 🔍 Turning unstructured data into actionable insights  
@@ -22,7 +22,7 @@ My focus is on solving real-world problems with **scalable, memory-aware, and in
 Python, SQL  
 
 **AI/ML:**  
-LLMs, Generative AI, Prompt Engineering, RAG, Fine-Tuning, Agentic AI  
+LLMs, Generative AI, Prompt Engineering, RAG, Fine-Tuning, Agentic AI, Agents, Multi agent system.  
 
 **Frameworks:**  
 LangChain, LangGraph, FastAPI, Streamlit  
